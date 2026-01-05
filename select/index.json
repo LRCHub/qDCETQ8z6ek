@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ギミギミック",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-01-05T13:37:23.928885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギミギミック",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_ギミギミック_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギミギミック - Gimigimic",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_ギミギミック_-_Gimigimic_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギミギミック「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_ギミギミック「www.jpopsingles.eu」_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギミギミック",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ギミギミック_RADWIMPS.txt"
+    }
+  ]
+}
